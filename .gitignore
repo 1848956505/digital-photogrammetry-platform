@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific - data & output (do NOT commit)
+LoveDA-master/
+output/
+workspace/data/
+temp_overlay.png
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Qt
+*.user
